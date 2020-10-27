@@ -16,6 +16,7 @@ public class AscendingSort {
         for (int index = 0; index < numbers.length; index++) {
             numbers[index] = input.nextInt();
         }
+        
          for (int index = 1; index < numbers.length; index++) {
             int element = numbers[index];
 
